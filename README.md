@@ -1,4 +1,4 @@
-![logo](https://github.com/SmArafatRahman/Data-Science-/blob/main/code.png)
+
 <h1 align="center">Hi 👋, I'm S M Arafat Rahman</h1>
 <h3 align="center">A Programmer from Bangladesh</h3>
 (img align="right" alt="https://wifflegif.com/gifs/507629-creative-coding-perfect-loop-gif")
