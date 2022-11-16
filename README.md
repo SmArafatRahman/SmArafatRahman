@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Image Processing, Machine Learning**
+- 🌱 I’m currently learning **Data Scince, Image Processing, Machine Learning**
 
 - 💬 Ask me about **Image Processing, Data Science, and Green Computing**
 
