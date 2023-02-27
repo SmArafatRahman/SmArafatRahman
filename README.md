@@ -9,6 +9,7 @@
 - 💬 Ask me about **Image Processing, Data Science, and Green Computing**
 
 - 📫 How to reach me **smarafat233@gmail.com**
+- LinkedIn - https://www.linkedin.com/in/s-m-arafat-rahman-4b2aa8228/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
