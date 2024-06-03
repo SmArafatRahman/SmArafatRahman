@@ -2,7 +2,7 @@
 <h3 align="center">Problem Solver</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarafatrahman&label=Profile%20views&color=0e75b6&style=flat" alt="smarafatrahman" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science || DSA || Problem Solving || Data Analysis || Web Development **
 
 - 🌱 I’m currently learning **Data Scince, Image Processing, Machine Learning**
 
